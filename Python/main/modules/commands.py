@@ -1,0 +1,20 @@
+commands = {
+    b'4244830980\r\n': 'vol_up',
+    b'4228119300\r\n': 'vol_down',
+    b'3141860100\r\n': 'ok',
+    b'4177984260\r\n': 'arrow_right',
+    b'4161272580\r\n': 'arrow_left',
+    b'3191995140\r\n': 'arrow_down',
+    b'3208706820\r\n': 'arrow_up',
+    b'2841049860\r\n': 'netflix',
+    b'2740779780\r\n': 'prime_video',
+    b'2757491460\r\n': 'exit',
+    b'3609787140\r\n': 'back',
+    b'3125148420\r\n': 'menu',
+    b'1336998660\r\n': 'play',
+    b'1169881860\r\n': 'pause',
+    b'1905195780\r\n': 'advance_forward',
+    b'1888484100\r\n': 'advance_backward',
+    b'4278254340\r\n': 'channel_up',
+    b'4261542660\r\n': 'channel_down'
+}

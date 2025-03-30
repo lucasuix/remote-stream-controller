@@ -1,0 +1,20 @@
+{
+    "vol_up": "data/json/",
+    "vol_down": "sensor.json",
+    "ok": "modules/data/sensor.json",
+    "arrow_right": "Streamer Remote Controller",
+    "arrow_left": "300x200",
+    "arrow_down": "",
+    "arrow_up": "",
+    "netflix": "",
+    "prime_video", "",
+    "exit": "",
+    "back": "",
+    "menu": "",
+    "play": "",
+    "pause": "",
+    "advance_forward": "",
+    "advance_backward": "",
+    "channel_up": "",
+    "channel_down": ""
+}

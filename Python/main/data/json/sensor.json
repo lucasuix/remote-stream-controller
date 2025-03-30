@@ -1,0 +1,9 @@
+{
+    "data_path": "data/json/",
+    "config_file": "sensor.json",
+    "config_path": "modules/data/sensor.json",
+    "system": "linux",
+    "port": "/dev/ttyUSB0",
+    "code": 0,
+    "baud_rate": 9600
+}
